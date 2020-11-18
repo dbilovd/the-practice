@@ -1,0 +1,13 @@
+{
+  "name": "CrackingTheCodeInterview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_count_pairs_that_have_difference.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-file": "node array_count_pairs_that_have_difference_test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
